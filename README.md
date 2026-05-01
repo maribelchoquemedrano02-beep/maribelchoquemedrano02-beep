@@ -1,8 +1,8 @@
 <h1 align="center">👩‍💻 Maribel Choque Medrano</h1>
 
 <p align="center">
-Estudiante de Ingeniería Informática (21 años)<br>
-💻 Programación | 🧮 Matemática | 🔐 Ciberseguridad
+Computer Engineering Student (21 years old)<br>
+💻 Programming | 🧮 Mathematics | 🔐 Cybersecurity
 </p>
 
 ---
@@ -11,17 +11,17 @@ Estudiante de Ingeniería Informática (21 años)<br>
   <tr>
     <td width="60%">
 
-<h2>🧠 Sobre mí</h2>
+<h2>🧠 About Me</h2>
 
 <p>
-Soy estudiante de Ingeniería Informática apasionada por la programación, la matemática y la ciberseguridad.  
-Me gusta entender cómo funcionan las cosas desde la lógica y construir soluciones reales.
+I am a Computer Engineering student passionate about programming, mathematics, and cybersecurity.  
+I enjoy understanding how things work from a logical perspective and building real-world solutions.
 </p>
 
 <ul>
-  <li>🧩 Enfoque en lógica y resolución de problemas</li>
-  <li>🔐 Interesada en ciberseguridad (Red Team)</li>
-  <li>📚 En constante aprendizaje y mejora</li>
+  <li>🧩 Strong focus on logic and problem-solving</li>
+  <li>🔐 Interested in cybersecurity (Red Team)</li>
+  <li>📚 Constantly learning and improving</li>
 </ul>
     </td>
     <td width="40%" align="center">
@@ -32,23 +32,23 @@ Me gusta entender cómo funcionan las cosas desde la lógica y construir solucio
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-### 👩‍💻 Lenguajes
+### 👩‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html" />
 </p>
 
 ---
 
-### 🧰 Herramientas
+### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
 </p>
 
 ---
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
@@ -60,7 +60,7 @@ SQL Server • MySQL
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
 ✉️ <a href="mailto:maribelchoquemedrano02@gmail.com">maribelchoquemedrano02@gmail.com</a>
@@ -69,6 +69,7 @@ SQL Server • MySQL
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil
+⭐ Thanks for visiting my profile
 </p>
+
 
